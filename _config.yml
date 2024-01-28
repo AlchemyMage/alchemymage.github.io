@@ -25,6 +25,18 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alchemy.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+social:
+  - platform: envelope
+    url: mailto:alchemy@posetmage.com
+  - platform: youtube
+    url: https://youtube.com/@alchemy
+  - platform: facebook
+    url: https://facebook.com/alchemy
+  - platform: twitter
+    url: https://twitter.com/alchemy
+  - platform: threads
+    url: https://threads.net/alchemy
+
 site_favicon: favicon.ico
 includes_dir: _shared/_includes
 layouts_dir: _shared/_layouts
