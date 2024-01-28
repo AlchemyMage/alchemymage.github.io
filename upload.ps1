@@ -1,3 +1,6 @@
+cd _shared
+./upload.bat
+cd ../
 
 git config --local user.name "AlchemyMage"
 git config --local user.email "alchemy@posetmage.com"
