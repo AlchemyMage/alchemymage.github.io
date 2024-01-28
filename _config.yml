@@ -29,13 +29,13 @@ social:
   - platform: envelope
     url: mailto:alchemy@posetmage.com
   - platform: youtube
-    url: https://youtube.com/@alchemy
+    url: https://youtube.com/@alchemymage
   - platform: facebook
-    url: https://facebook.com/alchemy
+    url: https://facebook.com/alchemymage
   - platform: twitter
-    url: https://twitter.com/alchemy
+    url: https://twitter.com/alchemymage
   - platform: threads
-    url: https://threads.net/alchemy
+    url: https://threads.net/alchemymage
 
 site_favicon: favicon.ico
 includes_dir: _shared/_includes
