@@ -8,3 +8,4 @@ vendor
 .obsidian/
 
 Gemfile.lock
+*.png
