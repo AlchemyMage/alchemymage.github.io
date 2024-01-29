@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 鍊金術士
+title: 鍊金術士-AlchemyMage
 email: alchemy@posetmage.com
 description: >- # this means to ignore newlines until "baseurl:"
-   "AlchemyMage"
-baseurl: "" # the subpath of your site, e.g. /blog
+   大腦是一個賢者之石，充滿無限可能
+
 url: "https://alchemy.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 social:
@@ -34,6 +34,8 @@ social:
     url: https://facebook.com/alchemymage
   - platform: twitter
     url: https://twitter.com/alchemymage
+  - platform: medium
+    url: https://medium.com/@alchemymage
   - platform: threads
     url: https://threads.net/alchemymage
 
