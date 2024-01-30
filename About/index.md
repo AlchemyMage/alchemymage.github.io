@@ -22,7 +22,7 @@ img {
   * [medium](https://medium.com/@alchemymage) 
   * [youtube](https://youtube.com/@alchemymage)
   * [twitter](https://twitter.com/alchemymage)
-  * [threads](https://threads.net/alchemymage)
+  * [threads](https://threads.net/alchemy.mage)
   * [tiktok](https://www.tiktok.com/@alchemymage)
 
 ## 其他品牌
