@@ -37,11 +37,11 @@ social:
   - platform: medium
     url: https://medium.com/@alchemymage
   - platform: threads
-    url: https://threads.net/alchemymage
+    url: https://threads.net/alchemy.mage
 
-site_favicon: favicon.ico
 includes_dir: _shared/_includes
 layouts_dir: _shared/_layouts
+site_favicon: favicon.ico
 
 # Build settings
 remote_theme: jekyll/minima
