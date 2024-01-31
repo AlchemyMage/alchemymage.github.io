@@ -24,6 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
     大腦是一個賢者之石，充滿無限可能
 
 url: "https://alchemy.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Daily" # the subpath of your site, e.g. /blog
+
+repository: lalchemymage/Daily
 
 social:
   - platform: envelope
