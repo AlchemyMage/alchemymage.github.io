@@ -5,5 +5,5 @@
 
 [submodule "_layouts"]
 	path = _layouts
-	url = ../posetmage_layouts.git
+	url = ../alchemy_layouts.git
 	branch = main
