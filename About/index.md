@@ -25,6 +25,6 @@ img {
 
 ## 其他品牌
 AlchemyMage是PosetMage的子品牌，中文的內容都會放在鍊金術士，其他品牌線主站：
-* <img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> [PosetMage](https://posetmage.com) - ACGN相關
-* <img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> [LatticeMage](https://lattice.posetmage.com) - 英文內容
-* <img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> [AI-Mage](https://ai.posetmage.com) - AIGC相關
+* <a href="https://posetmage.com"><img src="https://posetmage.com/Images/Icon/PosetMage_t.png" Height="32" /> PosetMage</a>  - ACGN相關
+* <a href="https://lattice.posetmage.com"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.png" Height="32" /> LatticeMage</a>  - 英文內容
+* <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.png" Height="32" /> AI-Mage</a>  - AIGC相關
