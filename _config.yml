@@ -32,8 +32,6 @@ social:
     url: https://facebook.com/alchemymage
   - platform: twitter
     url: https://twitter.com/alchemymage
-  - platform: medium
-    url: https://medium.com/@alchemymage
   - platform: threads
     url: https://threads.net/alchemy.mage
 
