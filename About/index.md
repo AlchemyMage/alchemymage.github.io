@@ -22,6 +22,7 @@ img {
   * [threads](https://threads.net/alchemy.mage)
   * [twitter](https://twitter.com/alchemymage)
   * [youtube](https://youtube.com/@alchemymage)
+  * [Podcast](/Podcast/)
 
 ## 其他品牌
 鍊金Mage是PosetMage的子品牌，中文的內容都會放在此。其他品牌線主站：

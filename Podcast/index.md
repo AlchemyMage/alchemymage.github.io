@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Podcast
 ---
 
-# Podcast
 
 ## [逐字稿](./Subtitle/)
 
-## [Spotify](https://podcasters.spotify.com/pod/show/alchemymage)
+## 連結
+  * [Spotify](https://podcasters.spotify.com/pod/show/alchemymage)
