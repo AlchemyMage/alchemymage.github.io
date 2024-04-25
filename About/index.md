@@ -34,8 +34,7 @@ img {
   * [youtube](https://youtube.com/@alchemymage)
   * [Podcast](/Podcast/)
 
-## 其他品牌
-鍊金Mage是PosetMage的子品牌，中文的內容都會放在此。其他品牌線主站：
-* <a href="https://posetmage.com"><img src="https://posetmage.com/Images/Icon/PosetMage_t.webp" Height="32" /> PosetMage</a>  - ACGN相關
-* <a href="https://lattice.posetmage.com"><img src="https://posetmage.com/Images/Icon/LatticeMage_t.webp" Height="32" /> LatticeMage</a>  - 英文內容
-* <a href="https://ai.posetmage.com"><img src="https://posetmage.com/Images/AIMage/LOGO.webp" Height="32" /> AI-Mage</a>  - AIGC相關
+
+<div id="subbrands"></div>
+
+<script src="{{ '/assets/js/Sub_Brands.js' | relative_url }}"></script>
