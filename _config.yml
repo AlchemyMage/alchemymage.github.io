@@ -25,20 +25,15 @@ slogan: 大腦是一個賢者之石，充滿無限可能
 
 repository: alchemymage/alchemymage.github.io
 
-social:
-  - platform: envelope
-    url: mailto:alchemy@posetmage.com
-  - platform: youtube
-    url: https://youtube.com/@alchemymage
-  - platform: facebook
-    url: https://facebook.com/alchemymage
-  - platform: twitter
-    url: https://twitter.com/alchemymage
-  - platform: threads
-    url: https://threads.net/alchemy.mage
 
 # Build settings
 remote_theme: jekyll/minima
+
+exclude:
+  - _includes/.git/
+  - _layouts/.git/
+  - _layouts/page/.git/
+  - assets/.git/
 
 minima:
   skin: dark
