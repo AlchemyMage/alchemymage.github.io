@@ -1,7 +1,12 @@
 ---
-layout: page
+layout: base
 ---
 
-<meta http-equiv="refresh" content="0; url=/Blog/" />
 
-## Waiting for loading......
+# AI鍊金工作流系統
+
+![](https://raw.githubusercontent.com/HomunMage/CrewAI-GUI/main/frontend.webp)
+
+## 使用課程
+
+
