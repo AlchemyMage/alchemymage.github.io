@@ -11,7 +11,7 @@ layout: base
 
 
 ## 參考我們的課程
-我們準備了一系列精心設計的課程，幫助您迅速掌握AI工作流系統的使用方法。點擊下方的課程連結，開始您的學習之旅，充分發揮AI技術的潛力。
+我們準備了一系列精心設計的課程，幫助您迅速掌握AI工作流系統的使用方法。點擊[課程連結](https://www.youtube.com/playlist?list=PLxP_7CleHzmOzs_QwOIpe7lBGjTkNUqr4)，開始您的學習之旅，充分發揮AI技術的潛力。
 
 * <a href="https://www.youtube.com/playlist?list=PLxP_7CleHzmOzs_QwOIpe7lBGjTkNUqr4" target="_blank">
     <img src="https://alchemy.posetmage.com/Content/Lecture/2024%20AI%E5%B7%A5%E4%BD%9C%E6%B5%81/Cover.webp" alt="2024 AI工作流">
