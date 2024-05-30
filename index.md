@@ -16,7 +16,6 @@ layout: base
 * <a href="https://www.youtube.com/playlist?list=PLxP_7CleHzmOzs_QwOIpe7lBGjTkNUqr4" target="_blank">
     <img src="https://alchemy.posetmage.com/Content/Lecture/2024%20AI%E5%B7%A5%E4%BD%9C%E6%B5%81/Cover.webp" alt="2024 AI工作流">
 </a>
-* [參考書](https://drive.google.com/drive/folders/1vPg7MdDze3LE6HYRk9B9OhV5EABjK4vC)
 
 
 ## 專業客製化服務
