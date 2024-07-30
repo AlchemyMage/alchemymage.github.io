@@ -7,7 +7,7 @@ layout: base
 
 我們旨在釋放人類時間。我們的AI自動化工作流程產品，專為提高效率和生產力而設計。無論您是企業還是個人用戶，我們都能為您提供一套完整的基礎樣板，讓您輕鬆修改和適應您的需求。透過簡單易用的節點系統，您可以輕鬆規劃和管理您的工作流程，提升工作效率。
 
-![](https://raw.githubusercontent.com/HomunMage/CrewAI-GUI/main/frontend.webp)
+[![](https://langgraph-gui.github.io/cover.webp)](https://langgraph-gui.github.io/)
 
 
 ## 參考我們的課程
