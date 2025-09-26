@@ -26,6 +26,12 @@ slogan: 大腦是一個賢者之石，充滿無限可能
 repository: alchemymage/alchemymage.github.io
 
 
+defaults:
+    scope:
+      path: ""
+    values:
+      layout: "base"
+
 # Build settings
 remote_theme: jekyll/minima
 
